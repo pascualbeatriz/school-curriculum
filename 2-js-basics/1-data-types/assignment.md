@@ -14,3 +14,4 @@ Numbers: represents integer and floating numbers (decimals and exponentials). In
 String: is used to store text. In JavaScript, strings are surrounded by quotes. Use to describe the list of products.
 Boolean: Can help make decisions on which lines of code should run when certain conditions are met. Indicate if a product is include or not in a shopping cart.
 Object: is a complex data type that allows us to store collections of data. Describe characteristics of each product.
+
