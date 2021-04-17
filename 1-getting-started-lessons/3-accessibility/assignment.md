@@ -10,4 +10,5 @@ Identify a web site that you believe is NOT accessible, and create an action pla
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------------------- |
 | student report | includes paragraphs on how the site is inadequate, the Lighthouse report captured as a pdf, a list of ten points to improve, with details on how to improve it | missing 20% of the required | missing 50% of the required |
 
+
 This site doesn't have a descriptive heading hierarchy, in fact it doesn't have a semantic structure because uses to much divs instead other semantic tags as section or main. So we can't find or reading some important information includes on it with screenreader as telephone numbers.
